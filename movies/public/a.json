@@ -1,0 +1,76 @@
+{
+    "Search": [
+        {
+            "Title": "Confessions of a Teenage Drama Queen",
+            "Year": "2004",
+            "imdbID": "tt0361467",
+            "Type": "movie",
+            "": "https://m.media-amazon.com/images/M/MV5BMTIzMDE0MDQ5Ml5BMl5BanBnXkFtZTcwNTUwMDUyMQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Total Drama Island",
+            "Year": "2007–2014",
+            "imdbID": "tt1173427",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZDlkMWIzMWYtMjQ1NS00MzNhLWJkMDYtNDJjZjZmMmI1M2I0XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_SX300.jpg"
+        },
+        {
+            "Title": "A Woman of Paris: A Drama of Fate",
+            "Year": "1923",
+            "imdbID": "tt0014624",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZjJiMTU2NGQtNWRkNi00ZjExLWExMTUtMmNkNTU0NzRlMTA3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Kim Possible: So the Drama",
+            "Year": "2005",
+            "imdbID": "tt0446724",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZWM2MmQ1MjQtYmUwOS00YzIwLTkzNDUtYjEwMmNmYzYzMDM0XkEyXkFqcGdeQXVyOTM1Njc1ODM@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Eating Out: Drama Camp",
+            "Year": "2011",
+            "imdbID": "tt1833845",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTM2NTI0ODE4NF5BMl5BanBnXkFtZTcwMTE0NTE2Nw@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Total Drama All Stars",
+            "Year": "2013–2014",
+            "imdbID": "tt3177810",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDEyNGZiOTgtNWIxMS00NTkzLWFiN2YtYzE2MmY4ZjZlOGY1XkEyXkFqcGdeQXVyNzI1MDI1NDU@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Total Drama Presents: The Ridonculous Race",
+            "Year": "2014–2015",
+            "imdbID": "tt3787754",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYWZiNTAyYzYtNWM3Yy00NTcwLWFhMTMtYmUyN2U5NTAyZjdiXkEyXkFqcGdeQXVyNjAwMDg5NTc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Total Drama Revenge of the Island",
+            "Year": "2012",
+            "imdbID": "tt2733534",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0NTExNDA4NF5BMl5BanBnXkFtZTgwODQ3ODAxMzE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Love Action Drama",
+            "Year": "2019",
+            "imdbID": "tt7117870",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTM1MTE2YzAtNDYxMS00YjY1LWIyYWUtNWUzNzQ0YTQzYzU4XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Drama/Mex",
+            "Year": "2006",
+            "imdbID": "tt0808237",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzJiZTk2MTEtZDZmMC00ZmJkLWE5NzAtYTMyMDI2MzdkODBiXkEyXkFqcGdeQXVyMzY0MTY2MDA@._V1_SX300.jpg"
+        }
+    ],
+    "totalResults": "526",
+    "Response": "True"
+}
